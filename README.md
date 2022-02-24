@@ -4,4 +4,4 @@
 - Visualize the movements of measles cases on map
 - Calculate and visualize overlapping activities of measles cases by points of interest
 - Provide downloadable analysis report in Microsoft Word
-- The file is over 25mb, if you are interested in this project, please contact me with orincorange@gmail.com
+- The file is over 25mb. If you are interested in this project, please contact me with orincorange@gmail.com
